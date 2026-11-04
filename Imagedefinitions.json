@@ -1,6 +1,6 @@
 [
   {
-    "nate": "Main",
-    "imageUri": "038740786275.dkr.ecr.us-east-2.amazonaws.com/clase6: latest"
+    "name": "clase6",
+    "imageUri": "038740786275.dkr.ecr.us-east-2.amazonaws.com/clase6:latest"
   }
 ]
